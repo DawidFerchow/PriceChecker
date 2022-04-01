@@ -36,6 +36,15 @@ Just replace selector to proper for current rivals:
 ```
 $item = $html->find("em[class='main-price']", 0)->plaintext;
 ```
+and add class name to array in config.php file:
+```
+$classes = [
+  new MicroData(),
+  new WooCommerce(),
+  new Shoper(),
+];
+```
+
 You can read more about finding selector content it this place [PHP Simple HTML DOM Parser](https://simplehtmldom.sourceforge.io/).
 ## Question to you!
 What do you think. is it enough to become Junior PHP or Junior Full Stack?
