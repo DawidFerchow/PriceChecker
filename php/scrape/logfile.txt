@@ -1,0 +1,49 @@
+
+----------
+[April 3, 2022, 1:42:54.5328140] Site: 1 of: 1
+[April 3, 2022, 1:42:54.5330060] Do site: https://prestasandbox.ferchow.pl/pl/strona-glowna/2-watch.html
+[April 3, 2022, 1:42:54.5331310] Choose proxy: 185.126.65.105:6890
+[April 3, 2022, 1:42:56.1377000] Get price: 100
+[April 3, 2022, 1:42:56.1378460] Wait 8 second
+----------
+[April 3, 2022, 1:44:06.3058810] Site: 1 of: 1
+[April 3, 2022, 1:44:06.3060760] Do site: https://prestasandbox.ferchow.pl/pl/strona-glowna/2-watch.html
+[April 3, 2022, 1:44:06.3062070] Choose proxy: 185.126.65.105:6890
+[April 3, 2022, 1:44:07.8684120] Get price: 100
+[April 3, 2022, 1:44:07.8686110] Wait 8 second
+----------
+[April 3, 2022, 1:44:23.4792310] Site: 1 of: 1
+[April 3, 2022, 1:44:23.4793690] Do site: https://prestasandbox.ferchow.pl/pl/strona-glowna/2-watch.html
+[April 3, 2022, 1:44:23.4794600] Choose proxy: 45.192.145.240:5582
+[April 3, 2022, 1:44:24.7893750] Get price: 100
+[April 3, 2022, 1:44:24.7895680] Wait 6 second
+----------
+[April 3, 2022, 1:51:53.4032190] Site: 1 of: 1
+[April 3, 2022, 1:51:53.4034080] Do site: https://prestasandbox.ferchow.pl/pl/strona-glowna/4-laptop.html
+[April 3, 2022, 1:51:53.4035400] Choose proxy: 45.192.145.240:5582
+[April 3, 2022, 1:51:55.4882060] Get price: 150
+[April 3, 2022, 1:51:55.4883970] Wait 6 second
+----------
+[April 3, 2022, 2:43:33.9240690] Site: 1 of: 1
+[April 3, 2022, 2:43:33.9242560] Do site: https://prestasandbox.ferchow.pl/pl/strona-glowna/5-phone.html
+[April 3, 2022, 2:43:33.9243860] Choose proxy: 45.192.145.223:5565
+[April 3, 2022, 2:43:41.1098110] Get price: 230
+[April 3, 2022, 2:43:41.1100000] Wait 8 second
+----------
+[April 3, 2022, 2:53:22.9462130] Site: 1 of: 3
+[April 3, 2022, 2:53:22.9463540] Do site: https://prestasandbox.ferchow.pl/pl/strona-glowna/2-watch.html
+[April 3, 2022, 2:53:22.9464460] Choose proxy: 185.126.65.105:6890
+[April 3, 2022, 2:53:24.8193920] Get price: 100
+[April 3, 2022, 2:53:24.8195610] Wait 6 second
+----------
+[April 3, 2022, 2:53:30.8205330] Site: 2 of: 3
+[April 3, 2022, 2:53:30.8206370] Do site: https://prestasandbox.ferchow.pl/pl/strona-glowna/4-laptop.html
+[April 3, 2022, 2:53:30.8207260] Choose proxy: 45.192.145.240:5582
+[April 3, 2022, 2:53:32.1253610] Get price: 150
+[April 3, 2022, 2:53:32.1255090] Wait 8 second
+----------
+[April 3, 2022, 2:53:40.1262020] Site: 3 of: 3
+[April 3, 2022, 2:53:40.1263080] Do site: https://prestasandbox.ferchow.pl/pl/strona-glowna/5-phone.html
+[April 3, 2022, 2:53:40.1263980] Choose proxy: 45.192.145.223:5565
+[April 3, 2022, 2:53:41.5286030] Get price: 230
+[April 3, 2022, 2:53:41.5287940] Wait 10 second

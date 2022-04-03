@@ -1,0 +1,31 @@
+.has-money:after {
+  content: ' zł';
+}
+.dataTables_wrapper .dataTables_length select {
+  padding-right: 2.5rem;
+}
+.select:not(.is-multiple) {
+  vertical-align: middle;
+}
+.is-full {
+  margin-top: 20px!important;
+  margin-bottom: 20px!important;
+}
+.navbar-item img {
+    max-height: 4rem;
+}
+table.dataTable tbody > tr.selected,
+table.dataTable tbody > tr > .selected {
+  background-color: #fafafa;
+}
+table.dataTable tr.selected td.select-checkbox:after,
+table.dataTable tr.selected th.select-checkbox:after {
+  font-size: 18px;
+  margin-top: -19px;
+  margin-left: -6px;
+  text-shadow: none;
+}
+
+.is-family-monospace {
+  font-family: 'Roboto Mono', monospace!important;
+}
