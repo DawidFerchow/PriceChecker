@@ -45,6 +45,8 @@ $classes = [
 ];
 ```
 
-You can read more about finding selector content it this place [PHP Simple HTML DOM Parser](https://simplehtmldom.sourceforge.io/).
+You can read more about finding selector content or value, on this place [PHP Simple HTML DOM Parser](https://simplehtmldom.sourceforge.io/).
+## Bla, bla, show me demo!
+Specially for you, can check demo in [Price Checker Demo](https://pricechecker.ferchow.pl/). Login: demo and password: demo. Also created prestashop sandbox for add product, change price and next check PriceChecker.
 ## Question to you!
-What do you think. is it enough to become Junior PHP or Junior Full Stack?
+What do you think. Is it enough to become Junior PHP or Junior Full Stack?
